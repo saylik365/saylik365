@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayli Kulkarni</h1>
+<h1 align="center">Hi 👋, I'm balkrushna patki</h1>
 <h3 align="center">Passionate Full Stack Developer | Java & Web Development Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
@@ -12,26 +12,11 @@
 - 🌱 Currently learning and building projects using **Java, DSA, and Full Stack Web Technologies**.
 - 💻 Focused on **Java | PHP | MySQL | MERN Stack | REST APIs**.
 - 💬 Ask me about anything related to **Full Stack Development, Java, PHP, MySQL, or Web Architecture**.
-- 📫 Reach out at: **saylikulkarni0645@gmail.com**
-- 🧳 Portfolio / Resume: [LinkedIn Profile](https://www.linkedin.com/in/sayli-kulkarni-b73267331)
+- 📫 Reach out at: **balkrishnapatki6@gmail.com**
 
 ---
 
-### 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sayli-kulkarni-b73267331" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sayli.k_1504" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sayli365" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
 
 ### 🛠️ Skills & Technologies
 
