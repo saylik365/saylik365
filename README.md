@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayali Kulkarni</h1>
+<h1 align="center">Hi 👋, I'm balkrushna patki </h1>
 <h3 align="center">Passionate Full Stack Developer | Java & Web Development Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 - 🌱 Currently learning and building projects using **Java, DSA, and Full Stack Web Technologies**.
 - 💻 Focused on **Java | PHP | MySQL | MERN Stack | REST APIs**.
 - 💬 Ask me about anything related to **Full Stack Development, Java, PHP, MySQL, or Web Architecture**.
-- 📫 Reach out at: **saylikulkarni0645@gmail.com**
+- 📫 Reach out at: **balkrishnapatki6@gmail.com.com**
 
 ---
 
